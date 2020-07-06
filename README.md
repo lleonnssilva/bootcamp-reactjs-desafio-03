@@ -1,4 +1,4 @@
-# Desafio 3
+# Desafio 3 ok
 
 Configure uma estrutura com create-react-app. Além disso, utilize as ferramentas ESLint, EditorConfig e Prettier durante o desenvolvimento desse projeto.
 
